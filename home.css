@@ -1,0 +1,56 @@
+body
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+label
+{
+	margin: 0;
+	border: 0;
+	width: 300px;
+	height: 30px;
+}
+input
+{
+	margin: 0;
+	border: 0;
+	width: 300px;
+	height: 30px;
+}
+.la
+{
+	float: left;
+	padding: 30px 30px;
+
+}
+.in
+{
+	float: right;
+	padding: 30px 30px;
+}
+.fi
+{
+	width: 500px;
+	height: 100px;
+	background-color: #F1F1F1;
+	display: table;
+}
+.con
+{
+	padding: 30px;
+}
+.su
+{
+	border: 0;
+	margin: 0;
+	background-color: #46A049;
+	margin-left: 30%;
+	width: 40%;
+	margin-right: 30%;
+	color: white;
+}
+.su:hover
+{
+	background-color: #46A000;
+}
